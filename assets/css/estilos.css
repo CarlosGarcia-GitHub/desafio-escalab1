@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 20px;
+}
+
+.text{
+    width: 70%;
+}
+
+.title{
+    text-align: center;
+}
+
+.azul{
+    width: 150px;
+    height: 150px;
+    background-color: steelblue;
+}
+
+.naranja{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+}
+
+.verde{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+}
+
+.rosa{
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+}
